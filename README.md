@@ -1,0 +1,1 @@
+This is a complex data processor application built on Android that uses the teams past form data to predict the outcome of a match. The mathematical algorithm is custom and although not updated, once boasted an 80% accuracy.
